@@ -8,3 +8,5 @@ going straight at it
 WAU-SOUTH SUDAN.
 
 Making sure the code is updated from now onwards
+
+But as i move, i also carefully analyse
