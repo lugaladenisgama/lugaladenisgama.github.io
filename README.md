@@ -5,4 +5,6 @@ Second day, making sure all is well
 Third day should be better
 going straight at it
 
-WAU-SOUTH SUDAN
+WAU-SOUTH SUDAN.
+
+Making sure the code is updated from now onwards
